@@ -289,3 +289,8 @@ Apache Kafka is interested in building the community; we would welcome any thoug
 
 To contribute follow the instructions here:
  * https://kafka.apache.org/contributing.html 
+
+///
+git add . && git commit
+git push origin 3.7_clone
+
